@@ -3,6 +3,8 @@
 
 📌 **[Course Information](https://aplicaciones.uc3m.es/cpa/generaFicha?&est=350&plan=392&asig=16507&idioma=2)** | 🏛 **[UC3M](https://www.uc3m.es/Home)**  
 
+[README Version in Spanish/Castilian (versión en español/castellano)](./README-es.md)
+
 This repository contains my work for the **Web Analytics** course at **Universidad Carlos III de Madrid (UC3M)**, which I completed while studying abroad from **September 2024 to December 2024** as part of my **Computer Science degree**. The course focused on **data retrieval, processing, and analysis** using **APIs, web scraping, and data visualization techniques**. At UC3M, the course is part of the **Data Science and Engineering** degree program.
 
 Throughout the course, I primarily worked in a **group of three students**, collaborating on **projects and labs** that explore **real-world datasets, automation, and analytical techniques**.
