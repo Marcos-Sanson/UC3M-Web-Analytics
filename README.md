@@ -12,11 +12,23 @@ Throughout the course, I primarily worked in a **group of three students**, coll
 ---
 
 ## 📁 **Repository Contents**
-This repository includes **5 major labs and projects**, each applying key **data science** and **web analytics** concepts:
+This repository includes **7 major labs and projects**, each applying key **data science** and **web analytics** concepts:
 
 ---
 
-### 🔹 **1. Web Scraping with BeautifulSoup**  
+### **1. Introduction to Web Scraping**  
+✔ **Lab Goal**: Learn fundamental web scraping concepts and ethical data extraction.  
+✔ **Key Topics**:  
+   - Understanding **HTML structure** and **CSS selectors**.  
+   - Using **Requests** and **BeautifulSoup** for extracting text and structured data.  
+   - Parsing **tables and lists** into structured formats like CSV and JSON.  
+   - Respecting `robots.txt` and ethical web scraping guidelines.  
+
+📌 **View Lab Notebook** ➝ [`Introduction_to_Web_Scraping_Lab.ipynb`](./Introduction_to_Web_Scraping_Lab.ipynb)  
+
+---
+
+### **2. Web Scraping with BeautifulSoup**  
 ✔ **Lab Goal**: Extract and parse structured data from websites.  
 ✔ **Key Topics**:  
    - Using **`requests`** and **`BeautifulSoup`** for web scraping.  
@@ -28,7 +40,19 @@ This repository includes **5 major labs and projects**, each applying key **data
 
 ---
 
-### 🔹 **2. World Bank API Lab**  
+### **3. Web Scraping with Selenium**  
+✔ **Lab Goal**: Automate browser interactions and scrape dynamic content from JavaScript-heavy websites.  
+✔ **Key Topics**:  
+   - **Selenium WebDriver** for browser automation.  
+   - Interacting with **JavaScript-rendered elements** and AJAX-loaded data.  
+   - Handling **cookies, login authentication, and form submissions**.  
+   - Extracting **live data** from job postings, e-commerce sites, and dynamic tables.  
+
+📌 **View Lab Notebook** ➝ [`Selenium_Lab.ipynb`](./Selenium_Lab.ipynb)  
+
+---
+
+### **4. World Bank API Lab**  
 ✔ **Lab Goal**: Retrieve and analyze **real-world economic indicators** from the **World Bank API**.  
 ✔ **Key Topics**:  
    - API-based **data extraction** using `requests`.  
@@ -40,7 +64,7 @@ This repository includes **5 major labs and projects**, each applying key **data
 
 ---
 
-### 🔹 **3. Graph Theory Lab**  
+### **5. Graph Theory Lab**  
 ✔ **Lab Goal**: Apply **graph theory concepts** in **network analysis**.  
 ✔ **Key Topics**:  
    - **Graph structures**: Nodes, edges, adjacency matrices.  
@@ -52,7 +76,7 @@ This repository includes **5 major labs and projects**, each applying key **data
 
 ---
 
-### 🔹 **4. Data Visualization Lab**  
+### **6. Data Visualization Lab**  
 ✔ **Lab Goal**: Explore techniques for **data visualization** to effectively communicate insights.  
 ✔ **Key Topics**:  
    - Creating **interactive** and **static** visualizations.  
@@ -64,7 +88,7 @@ This repository includes **5 major labs and projects**, each applying key **data
 
 ---
 
-### 🔹 **5. Web Analytics Final Project**  
+### **7. Web Analytics Final Project**  
 ✔ **Project Goal**: **Develop a job recommendation system** using **TF-IDF** and **Cosine Similarity** to match users with job listings.  
 ✔ **Key Topics**:  
    - **Adzuna API**: Extracting job listings dynamically.  
@@ -82,6 +106,7 @@ This repository includes **5 major labs and projects**, each applying key **data
 - **Programming Language**: **Python**
 - **Libraries & Tools**:  
   - `requests`, `BeautifulSoup` - Web scraping  
+  - `Selenium WebDriver` - Browser automation  
   - `matplotlib`, `seaborn`, `plotly` - Data visualization  
   - `scikit-learn`, `nltk`, `pandas`, `numpy` - Data analysis & ML  
   - `networkx` - Graph Theory  
