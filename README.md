@@ -98,11 +98,16 @@ This repository includes **7 major labs and projects**, each applying key **data
    - **Data visualization** of job trends and market demand.  
    - **Collaboration**: This project was completed as a **group assignment** and required extensive teamwork.  
 
+  **Interactive and Dynamic Job Map Visualizations**: 
+ 
+  ![London Job Map 1](docs/Final_Project_London_Job_Map_1.png)
+  ![London Job Map 2](docs/Final_Project_London_Job_Map_2.png)
+
 📌 **View Project Notebook** ➝ [`Web_Analytics_Final_Project.ipynb`](./Web_Analytics_Final_Project.ipynb)  
 
-📌 **View Project PowerPoint Presentation** ➝ [`Web Analytics Final Project PowerPoint Presentation.pptx`](./Web%20Analytics%20Final%20Project%20PowerPoint%20Presentation.pptx) 
+📌 **View Project PowerPoint Presentation** ➝ [`Web Analytics Final Project PowerPoint Presentation.pptx`](./docs/Web%20Analytics%20Final%20Project%20PowerPoint%20Presentation.pptx) 
 
-📌 **View Project PDF Presentation** ➝ [`Web Analytics Final Project Presentation.pdf`](./Web%20Analytics%20Final%20Project%20Presentation.pdf)
+📌 **View Project PDF Presentation** ➝ [`Web Analytics Final Project Presentation.pdf`](./docs/Web%20Analytics%20Final%20Project%20Presentation.pdf)
 
 ---
 
