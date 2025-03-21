@@ -98,7 +98,16 @@ Este repositorio incluye **7 prácticas y proyectos principales**, cada uno apli
    - **Visualización de datos** de tendencias laborales y demanda del mercado.  
    - **Colaboración**: Este proyecto se completó como un **trabajo en grupo** y requirió un amplio trabajo en equipo.  
 
+**Visualizaciones Interactivas y Dinámicas de Empleos en Mapas**:  
+
+ ![Mapa de Empleos en Londres 1](docs/Final_Project_London_Job_Map_1.png)
+ ![Mapa de Empleos en Londres 2](docs/Final_Project_London_Job_Map_2.png)
+
 📌 **Ver Cuaderno del Proyecto** ➝ [`Web_Analytics_Final_Project.ipynb`](./Web_Analytics_Final_Project.ipynb)  
+
+📌 **Ver Presentación PowerPoint del Proyecto** ➝ [`Presentación PowerPoint del Proyecto de Analítica Web.pptx`](./docs/Web%20Analytics%20Final%20Project%20PowerPoint%20Presentation.pptx)
+
+📌 **Ver Presentación PDF del Proyecto** ➝ [`Presentación del Proyecto de Analítica Web.pdf`](./docs/Web%20Analytics%20Final%20Project%20Presentation.pdf)
 
 ---
 
